@@ -7,4 +7,5 @@
     $Proveedor->Correo="zkangel@gmail.com";
 
     echo $Proveedor->Nombre;
+    
 ?>

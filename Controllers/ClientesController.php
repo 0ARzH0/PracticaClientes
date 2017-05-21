@@ -7,4 +7,7 @@
     $Cliente->Correo="zkangel@gmail.com";
 
     echo $Cliente->Nombre;
+    echo "\n";
+    print_r($Cliente);
+    
 ?>
